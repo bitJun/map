@@ -40,9 +40,7 @@ export default defineConfig({
     chunkSizeWarningLimit: 1500,
     rollupOptions: {
        input: {
-        index: path.resolve(__dirname, 'index.html'),
-        agsitech: path.resolve(__dirname,'agsitech.html'),
-        feihongda: path.resolve(__dirname,'feihongda.html'),
+        index: path.resolve(__dirname, 'index.html')
       },
     },
   }

@@ -1,0 +1,40 @@
+/* CDN 服务仅供平台体验和调试使用，平台不承诺服务的稳定性，企业客户需下载字体包自行发布使用并做好备份。 */
+@font-face {
+  font-family: 'iconfont';  /* Project id 3180979 */
+  src: url('//at.alicdn.com/t/c/font_3180979_ayhwnbllons.woff2?t=1675051158354') format('woff2'),
+       url('//at.alicdn.com/t/c/font_3180979_ayhwnbllons.woff?t=1675051158354') format('woff'),
+       url('//at.alicdn.com/t/c/font_3180979_ayhwnbllons.ttf?t=1675051158354') format('truetype'),
+       url('//at.alicdn.com/t/c/font_3180979_ayhwnbllons.svg?t=1675051158354#iconfont') format('svg');
+}
+.iconfont{
+  font-family:"iconfont" !important;
+  font-size:16px;font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: 'HarmonyOS Sans Black';
+  src: url('../font/HarmonyOS_Sans_Black.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'HarmonyOS Sans Bold';
+  src: url('../font/HarmonyOS_Sans_Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'HarmonyOS_Sans_Light';
+  src: url('../font/HarmonyOS_Sans_Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'HarmonyOS Sans Medium';
+  src: url('../font/HarmonyOS_Sans_Medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'HarmonyOS Sans SC';
+  src: url('../font/HarmonyOS_Sans_Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'HarmonyOS Sans Thin';
+  src: url('../font/HarmonyOS_Sans_Thin.ttf') format('truetype');
+}
